@@ -23,3 +23,5 @@ Run the following commands:
 ```text
 docker run -d --name simpleserver -p 8080:8080  -e CURRENT_VERSION=beta simpleserver:beta
 ```
+
+ver 07.02.2020
